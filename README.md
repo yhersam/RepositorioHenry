@@ -1,2 +1,1 @@
-# RepositorioHenry
-Ejercicios del Precourse: Carrera de Desarrollo Full Stack- henry
+Ejercicios del Precourse: Carrera de Desarrollo Full Stack- henry. Se creo carpeta y un archivo txt
